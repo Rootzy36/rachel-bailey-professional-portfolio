@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+<rect width="1600" height="1000" fill="#f7fbfe"/>
+<g fill="none" stroke="#6f9dbb" stroke-width="2" opacity=".28">
+  <path d="M-50 120 C220 170 360 100 620 145 S1090 220 1650 100"/>
+  <path d="M-30 260 C260 300 420 240 700 275 S1180 340 1640 250"/>
+  <path d="M-20 410 C260 455 520 390 790 430 S1210 490 1640 390"/>
+  <path d="M-10 590 C230 620 520 565 820 600 S1240 680 1640 575"/>
+  <path d="M0 770 C280 735 530 790 820 750 S1250 700 1630 785"/>
+  <path d="M160 -20 C190 220 120 450 195 1020"/>
+  <path d="M350 -20 C400 230 325 520 395 1020"/>
+  <path d="M555 -20 C590 230 520 520 585 1020"/>
+  <path d="M790 -20 C835 220 760 560 820 1020"/>
+  <path d="M1040 -20 C1085 210 1015 560 1075 1020"/>
+  <path d="M1290 -20 C1345 220 1260 560 1335 1020"/>
+  <path d="M1480 -20 C1510 220 1440 600 1515 1020"/>
+</g>
+<!-- stylized Genesee-river-like planning motif -->
+<path d="M930 -40 C820 100 995 180 900 310 C805 440 970 520 865 650 C775 760 920 850 835 1050" fill="none" stroke="#78b9d7" stroke-width="34" opacity=".18"/>
+<path d="M930 -40 C820 100 995 180 900 310 C805 440 970 520 865 650 C775 760 920 850 835 1050" fill="none" stroke="#4d91b3" stroke-width="3" opacity=".25"/>
+<g fill="none" stroke="#8bb0c7" stroke-width="1.4" opacity=".22">
+  <path d="M50 50 L420 950 M250 0 L640 1000 M520 0 L900 1000 M850 0 L1200 1000 M1150 0 L1510 1000"/>
+  <path d="M0 900 L530 80 M270 1000 L780 0 M620 1000 L1130 0 M970 1000 L1490 0"/>
+</g>
+<g fill="#6b9db9" opacity=".14">
+  <circle cx="420" cy="330" r="10"/><circle cx="710" cy="520" r="8"/><circle cx="1110" cy="260" r="9"/><circle cx="1280" cy="640" r="8"/><circle cx="520" cy="780" r="9"/>
+</g>
+</svg>
